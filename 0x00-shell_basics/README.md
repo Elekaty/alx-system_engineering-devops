@@ -11,4 +11,5 @@ Delete the directory my_first_directory that is in the /tmp directory
 Write a script that changes the working directory to the previous one
 Write a script that lists all files in the current directory and the parent of the working directory and the /boot directory
 Write a script that prints the type of the file
-Create a symbolic link 
+Create a symbolic link
+Create a script that copies all the HTML files 
